@@ -5,9 +5,6 @@ Hello! I'm Jiwon!
 ### 소속
 이화여자대학교 기후・에너지시스템공학전공
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
 
 ```markdown
 Syntax highlighted code block

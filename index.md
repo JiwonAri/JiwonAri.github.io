@@ -1,8 +1,9 @@
-## Welcome to GitHub Pages
+## Jiown Resume
 
-You can use the [editor on GitHub](https://github.com/JiwonAri/JiwonAri.github.io/edit/main/index.md) to maintain and preview the content for your website in Markdown files.
+Hello! I'm Jiwon!
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+### 소속
+이화여자대학교 기후・에너지시스템공학전공
 
 ### Markdown
 

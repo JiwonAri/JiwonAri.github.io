@@ -6,7 +6,7 @@ EWHA WOMANS UNIVERSITY
 
 • Bachelor of Climate & Energy System Engineering, graduated February, 2022
 
-
+<br/>
 
 WORK EXPERIENCE 
 
